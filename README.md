@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **HTML and SQL Database**
 
-- 📝 I regularly write updates about my projects on my **[Discord Server](https://dsc.gg/dead-city)**
+- 📝 I regularly write updates about my projects on **[my Discord Server](https://dsc.gg/dead-city)**
 
 - 📫 You can contact me on **[my contact page](https://grafkox.de/contact/)**
 
