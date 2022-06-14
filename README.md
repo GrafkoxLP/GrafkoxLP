@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grafkoxlp&label=Profile%20views&color=0e75b6&style=flat" alt="grafkoxlp" /> </p>
 
-- 🔭 I’m currently working on [my website](https://github.com/GrafkoxLP/GrafkoxLP)
+- 🔭 I’m currently working on **[my website](https://grafkox.de/)**
 
 - 🌱 I’m currently learning **HTML**
 
 - 🤝 I’m looking for help with **HTML and SQL Database**
 
-- 📝 I regularly write updates about my projects on my Discord [https://dsc.gg/dead-city](https://dsc.gg/dead-city)
+- 📝 I regularly write updates about my projects on my **[Discord Server](https://dsc.gg/dead-city)**
 
 - 📫 How to reach me **https://grafkox.de/contact/**
 
@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grafkoxlp&show_icons=true&theme=dark&locale=en&layout=compact" alt="grafkoxlp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grafkoxlp&show_icons=true&theme=dark&locale=en" alt="grafkoxlp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grafkoxlp&theme=dark" alt="grafkoxlp" /></p>
