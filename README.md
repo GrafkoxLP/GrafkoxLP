@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grafkoxlp&label=Profile%20views&color=0e75b6&style=flat" alt="grafkoxlp" /> </p>
 
-- 🔭 I’m currently working on **[my website](https://grafkox.de/)**
+- 🔭 I’m currently working on my **[website](https://grafkox.de/)**
 
 - 🌱 I’m currently learning **HTML**
 
 - 🤝 I’m looking for help with **HTML and SQL Database**
 
-- 📝 I regularly write updates about my projects on **[my Discord Server](https://dsc.gg/dead-city)**
+- 📝 I regularly write updates about my projects on my **[Discord Server](https://dsc.gg/dead-city)**
 
-- 📫 You can contact me on **[my contact page](https://grafkox.de/contact/)**
+- 📫 You can contact me on my **[contact page](https://grafkox.de/contact/)**
 
 <h3 align="left">You can also contact me on:</h3>
 <p align="left">
