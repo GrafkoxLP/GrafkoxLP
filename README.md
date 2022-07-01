@@ -11,7 +11,7 @@
 
 - 📝 I regularly write updates about my projects on my **[Discord Server](https://dsc.gg/dead-city)**
 
-- 📫 You can contact me on my **[contact page](https://grafkox.de/contact/)**
+- 📫 You can contact me on my **[contact page](https://contact.grafkox.de/)**
 
 <h3 align="left">You can also contact me on:</h3>
 <p align="left">
